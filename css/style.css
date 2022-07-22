@@ -6,11 +6,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Grenze Gotisch";
-    text-align: center;
-}
-
-h1 {
     font-size:40pt;
+    text-align: center;
 }
 
 header {
@@ -47,6 +44,7 @@ header {
 
 #gallery {
     border: 2px solid #61A5ED;
+    margin-bottom: 2rem;
 }
 
 #gallery img {
@@ -55,4 +53,39 @@ header {
 
 #gallery figure {
     text-align: center;
+}
+
+/* Literature */
+#lit {
+    border: 2px solid #61A5ED;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+    margin: 0 auto;
+    max-width: 40rem;
+    padding: 2rem;
+}
+
+#lit div p {
+    clear: both;
+    padding: 0.3rem 0;
+}
+
+/* Dropcaps */
+#lit div p:nth-child(4n+1):first-letter {
+    background-image:linear-gradient(white, #ffd44b);
+    border: 4px outset #87B7FF;
+    border-bottom-left-radius: .2em;
+    border-top-right-radius: .2em;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    color: red;
+    float: left;
+    font-family: 'MedievalSharp';
+    font-size: 3em;
+    line-height: .65;
+    margin-right: .25em;
+    padding: .25em;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, .5);
+    
 }
