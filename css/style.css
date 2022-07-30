@@ -118,7 +118,7 @@ section#hobbies {
         width: 100%;
     }
 
-    lit div {
+    #lit div {
         columns: 20rem;
         max-width: 100%;
     }
