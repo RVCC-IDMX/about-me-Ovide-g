@@ -83,7 +83,7 @@ section#hobbies {
 }
 
 /* Dropcaps */
-#lit div p:nth-child(4n+1):first-letter {
+#lit div p:first-child:first-letter {
     background-image:linear-gradient(white, #ffd44b);
     border: 4px outset #87B7FF;
     border-bottom-left-radius: .2em;
@@ -99,7 +99,7 @@ section#hobbies {
     text-shadow: 2px 2px 3px rgba(0, 0, 0, .5);
 }
 
-
+/* tablet size */
 @media screen and (min-width: 60em) {
     figure {
         display: grid;
@@ -112,5 +112,34 @@ section#hobbies {
         font-size: 2rem;
         justify-content: center;
         margin-left: 1rem;
+    }
+
+    figure img {
+        width: 100%;
+    }
+
+    lit div {
+        columns: 20rem;
+        max-width: 100%;
+    }
+}
+
+/* large screen size*/
+@media screen and (min-width: 100em) {
+    #gallery{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    hr {
+        display: none;
+    }
+
+    #gallery h2 {
+        grid-column: 1/-1;
+    }
+
+    figure {
+        display: block;
     }
 }
