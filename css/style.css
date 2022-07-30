@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+h2 {
+    margin: .1em;
+}
+
 header {
     text-align: center;
 }
@@ -35,6 +39,12 @@ header {
 }
 
 /* Hobbies Section */
+
+section#hobbies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 #hobbies ul li:nth-last-child(odd) {
     color: red;
@@ -87,5 +97,20 @@ header {
     margin-right: .25em;
     padding: .25em;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, .5);
-    
+}
+
+
+@media screen and (min-width: 60em) {
+    figure {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+
+    figcaption {
+        align-items: center;
+        display: flex;
+        font-size: 2rem;
+        justify-content: center;
+        margin-left: 1rem;
+    }
 }
