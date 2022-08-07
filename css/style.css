@@ -82,7 +82,7 @@ section#hobbies {
     padding: 0.3rem 0;
 }
 
-/* video */
+/* video section */
 
 #video {
     border: 2px solid #61A5ED;
@@ -106,8 +106,6 @@ figcaption {
     margin: 20px;
     text-align: center;
 }
-
-/* video  section*/
 
 section#video {
     padding: 0 20px;
