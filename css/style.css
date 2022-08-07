@@ -82,6 +82,36 @@ section#hobbies {
     padding: 0.3rem 0;
 }
 
+/* video */
+
+#video {
+    border: 2px solid #61A5ED;
+    margin-bottom: 2rem;
+}
+
+#video iframe {
+    max-width: 100%;
+}
+
+#video #myVideo {
+    text-align: center;
+}
+
+iframe#myVideo {
+    display: block;
+    margin: 0px auto;
+}
+
+figcaption {
+    margin: 20px;
+    text-align: center;
+}
+
+section#video {
+    padding: 0 20px;
+}
+
+
 /* Dropcaps */
 #lit div p:first-child:first-letter {
     background-image:linear-gradient(white, #ffd44b);
