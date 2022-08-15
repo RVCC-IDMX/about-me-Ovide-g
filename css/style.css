@@ -107,6 +107,9 @@ figcaption {
     text-align: center;
 }
 
+#video figcaption {
+    font-size: 1.5rem;
+}
 section#video {
     padding: 0 20px;
 }
