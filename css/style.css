@@ -5,6 +5,7 @@ body {
 }
 
 /* navbar */
+
 .navbar {
     background-color: #333;
     color: whitesmoke;
@@ -15,6 +16,7 @@ body {
 }
 
 /* logo */
+
 .logo {
     display: flex;
     align-items: center;
@@ -30,8 +32,9 @@ body {
     font-size: 1.2em;
 }
 
-
 /* navigation list */
+
+
 
 main {
     padding: 2vw;
