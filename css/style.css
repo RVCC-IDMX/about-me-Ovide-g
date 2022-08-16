@@ -52,6 +52,14 @@ body {
     text-decoration: none;
 }
 
+.navbar-links a:hover,
+.navbar-links a:focus {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    color: #333;
+    outline: none;
+}
+
 main {
     padding: 2vw;
 }
