@@ -34,7 +34,23 @@ body {
 
 /* navigation list */
 
-.navbar-links {}
+.navbar-links li {
+    display: block;
+    list-style: none;
+    padding: 0.5em 0;
+}
+
+/* style all a tags in header and them on hoover */
+
+.navbar-links a {
+    background-color: #333;
+    color: whitesmoke;
+    display: inline-block;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    padding: 1rem 1.2rem;
+    text-decoration: none;
+}
 
 main {
     padding: 2vw;
