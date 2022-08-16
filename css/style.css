@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    padding-left: 1rem;
 }
 
 /* logo */
@@ -23,7 +24,6 @@ body {
 }
 
 .logo img {
-    padding-left: 10px;
     height: 6vw;
     width: 6vw;
 }
