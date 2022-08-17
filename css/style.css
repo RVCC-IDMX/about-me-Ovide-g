@@ -46,7 +46,7 @@ body {
     background-color: #333;
     color: whitesmoke;
     display: inline-block;
-    font-size: 1.5rem;
+    font-size: 2rem;
     letter-spacing: 2px;
     padding: 1rem 1.2rem;
     text-decoration: none;
@@ -240,6 +240,27 @@ legend {
     justify-self: center;
     max-width: 400px;
     width: 50%;
+}
+
+/* media query for non-mobile nav bar min-with set to width of nav elements such as no text wraps */
+
+@media screen and (min-width: 60rem) {
+
+   /* .navbar-links {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }*/
+
+    .navbar {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .navbar ul {
+        display: flex;
+        justify-content: space-between;
+    }
 }
 
 /* tablet size */
