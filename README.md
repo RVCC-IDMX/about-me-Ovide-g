@@ -2,7 +2,7 @@
 
 ----------
 
-![](laptop.png)
+<img src="/img/laptop.png" alt="laptop">
 
 ----------
 
