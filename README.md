@@ -2,7 +2,7 @@
 
 ----------
 
-![](laptop.png alt="laptop")
+![](laptop.png)
 
 ----------
 
