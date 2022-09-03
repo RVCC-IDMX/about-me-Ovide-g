@@ -1,10 +1,10 @@
 # Hi, I am Garry
 
 ----------
+<p align="center">
+<img src="/img/laptop.png" alt="laptop"></p>
 
-<img src="/img/laptop.png" alt="laptop">
-
-Image by <a href="https://pixabay.com/users/joshuaworoniecki-12734309/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Joshua Woroniecki</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Pixabay</a>
+<p align="center">Image by <a href="https://pixabay.com/users/joshuaworoniecki-12734309/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Joshua Woroniecki</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Pixabay</a></p>
 
 ----------
 
