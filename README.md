@@ -9,4 +9,4 @@
 
 ## 🚀 About Me
 
-At Raritan Valley Community College, *I am a student*. Currently, I am in a program for computer programming and interface design web development. Coding is something I am passionate about learning. Right now, I'm working on improving my README file using Markdown. JavaScript and Object Oriented Programming are currently two subjects I am learning. As a web developer student, I enjoy working with HTML and CSS, Jamstack, Markdown.
+At Raritan Valley Community College, *I am a student*. Currently, I am in a program for computer programming and interface design web development. Coding is something I am passionate about learning. Right now, I'm working on improving my README file using Markdown. JavaScript and Object Oriented Programming are currently two subjects I am learning. As a web developer student, I enjoy working with HTML, CSS, Jamstack, and Markdown.
