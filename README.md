@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Raritan Valley Community College is where *I am a student*. I am majoring in **Computer Programming, Interface Design, and Web Development**. 
-Learning how to code will help me create and launch web and mobile applications. I will be able to pursue new opportunities, such as becoming a software developer. 
+Raritan Valley Community College is where _I am a student_. I am majoring in **Computer Programming, Interface Design, and Web Development**.
+Learning how to code will help me create and launch web and mobile applications. I will be able to pursue new opportunities, such as becoming a software developer.
 
 By using Markdown, I can quickly and easily format my README so that it is easier to read and understand. It also allows me to add images and other media, which can be very helpful in explaining the purpose of my project. HTML, CSS, Jamstack, and Markdown are some of the tools I enjoy working with as a web developer student.
