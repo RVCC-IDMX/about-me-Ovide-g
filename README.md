@@ -1,6 +1,6 @@
 # Hi, I am Garry 👋 💻
 
-<p align="center"><img stc="/img/software-developer1.jpg" alt="developer"></p>
+<p align="center"><img src="/img/software-developer1.jpg" alt="developer"></p>
 
 <p align="center">Image by <a href="https://pixabay.com/users/innovalabs-22783312/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6521720">Innova Labs</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6521720">Pixabay</a></p>
 
